@@ -27,33 +27,6 @@ UI: JavaFX
 
 Algorithm: A* Search Algorithm (with heuristics)
 
-📂 Project Structure
-EightPuzzleGame/
-│── src/
-│   ├── Main.java           # Entry point
-│   ├── Board.java          # Puzzle board logic
-│   ├── AStarSolver.java    # A* search algorithm implementation
-│   ├── GameController.java # JavaFX controller for UI interactions
-│   └── Utils.java          # Helper functions
-│── resources/              # FXML layouts, CSS, images
-│── README.md               # Project documentation
-
-⚙️ Installation & Setup
-
-Clone the Repository
-
-git clone https://github.com/your-username/EightPuzzleGame.git
-cd EightPuzzleGame
-
-
-Open in an IDE (IntelliJ IDEA, Eclipse, or VS Code with JavaFX support).
-
-Run the Application
-
-Run Main.java
-
-Make sure JavaFX SDK is properly configured in your IDE.
-
 🎮 How to Play
 
 Manual Mode:
@@ -69,6 +42,11 @@ Click Solve with AI button.
 The puzzle will be solved automatically step by step using the A* search algorithm.
 
 📸 Screenshots
+![WhatsApp Image 2025-04-22 at 15 11 35_8215c086](https://github.com/user-attachments/assets/0b457448-e750-4a31-becf-327b3483b76e)
+![WhatsApp Image 2025-04-22 at 15 11 46_04470fd4](https://github.com/user-attachments/assets/82a29840-a998-4472-bab3-745bc43bb8e3)
+![WhatsApp Image 2025-04-22 at 15 11 56_5de10b20](https://github.com/user-attachments/assets/a2e4dc8d-f9de-407d-a6d4-7cc67f6300f0)
+
+
 
 
 
