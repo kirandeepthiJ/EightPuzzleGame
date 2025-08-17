@@ -1,4 +1,4 @@
-🧩 Eight Puzzle Game
+# Eight Puzzle Game
 
 The Eight Puzzle Game is a classic sliding puzzle implemented in Java with a JavaFX UI.
 The game can be played in two modes:
